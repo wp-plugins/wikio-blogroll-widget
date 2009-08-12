@@ -1,0 +1,56 @@
+/* CSS Document */
+.wikio_share_item{
+	float:left;
+	margin:5px;
+	padding:5px;
+	border: 1px solid #CCCCCC;
+	background:#FFFFFF;
+	width:40px;
+	height:20px;
+}
+
+.wikio_sub_item{
+	float:left;
+	margin:5px;
+	padding:5px;
+	border: 1px solid #CCCCCC;
+	background:#FFFFFF;
+	width:120px;
+	height:20px;
+}
+.wikio_widgets_item{
+	float:left;
+	margin:5px;
+	padding:5px;
+	border: 1px solid #CCCCCC;
+	background:#FFFFFF;
+	width:120px;
+	height:20px;
+}
+.wikio_share_form{
+	overflow:auto;
+}
+#script{
+	display:none;
+}
+.wikio-share{
+	padding:0px;
+	margin:0px;
+	overflow:auto;
+	width:120px;
+}
+.wikio-share-inline{
+	padding:0px;
+	margin:0px;
+	overflow:auto;
+	width:210px;
+}
+.wikio-share-button{
+	width:100px;
+	height:23px;
+	float:left;
+	padding:0px;
+	margin:0px;
+}
+
+

@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wikio-neighbours-sidebar-basic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-12 10:17+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Translater\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: C:\\Users\\admin\\Documents\\devs\\wp\n"
+"X-Poedit-KeywordsList: _e;__;_\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: wikio-neighbours-sidebar-basic\n"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:155
+msgid "Update complete"
+msgstr "Update abgeschlossen"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:186
+msgid "Wikio"
+msgstr "Wikio"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:191
+msgid "Which Wikio do you use"
+msgstr "Welche Wikio-Version benutzen Sie?"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:194
+msgid "Wikio.fr (fr)"
+msgstr "Wikio.fr (fr)"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:195
+msgid "Wikio.it (it)"
+msgstr "Wikio.it (it)"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:196
+msgid "Wikio.es (es)"
+msgstr "Wikio.es (es)"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:197
+msgid "Wikio.de (de)"
+msgstr "Wikio.de (de)"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:198
+msgid "Wikio.com (us)"
+msgstr "Wikio.com (us)"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:199
+msgid "Wikio.co.uk (uk)"
+msgstr "Wikio.co.uk (uk)"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:201
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:219
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:235
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:250
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:266
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:282
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:298
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:305
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:203
+msgid "Submit your site"
+msgstr "Meine Website vorschlagen"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:212
+msgid "Blog url"
+msgstr "Blog-URL"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:217
+msgid "Wordpress suggests:"
+msgstr "Wordpress-Vorschlag:"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:228
+msgid "Widget title"
+msgstr "Name des Widgets"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:233
+msgid "Give widget a title"
+msgstr "Geben Sie diesem Widget einen Namen"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:244
+msgid "Style"
+msgstr "Style"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:247
+msgid "Raw"
+msgstr "Raw"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:248
+msgid "Light"
+msgstr "Light"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:259
+msgid "Direction"
+msgstr "Richtung"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:262
+msgid "In"
+msgstr ""
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:263
+msgid "Out"
+msgstr ""
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:264
+msgid "Both"
+msgstr ""
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:275
+msgid "Width"
+msgstr "Breite"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:280
+msgid "Width example: 200"
+msgstr "Bespiel Breite: 200"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:291
+msgid "Max items"
+msgstr "Max. Links"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:296
+msgid "Example : 10"
+msgstr "Beispiel: 10"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:328
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:329
+msgid "Blogroll"
+msgstr "Blogroll"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:373
+msgid "neighbours widget by Wikio"
+msgstr "Blogroll Widget by Wikio"
+
+#: wikio-neighbours-sidebar-basic/wikio-neighbours-sidebar-basic.php:392
+msgid "Click here to configure widget!"
+msgstr "Klicken Sie hier, um das Widget zu konfigurieren"
+
+#~ msgid "Backlinks"
+#~ msgstr "Backlinks"
+#~ msgid "S'abonner"
+#~ msgstr "Subscribe"
+#~ msgid "Top des blogs"
+#~ msgstr "Blog-Ranking"
+#~ msgid "Le plugin Wikio vous permet d'ajouter un"
+#~ msgstr "Das Wikio-Plugin ermöglicht es Ihnen das Hinzufügen eines"
+#~ msgid "Bouton de vote"
+#~ msgstr "Vote-Buttons"
+#~ msgid "et celui de"
+#~ msgstr "und eines"
+#~ msgid "Partage universel"
+#~ msgstr "Universal Share-Buttons"
+#~ msgid "sous vos articles"
+#~ msgstr "unterhalb Ihrer Artikel"
+#~ msgid "un ou plusieurs widgets de news"
+#~ msgstr "eines oder mehrerer News-Widgets"
+#~ msgid "Le bouton d'abonnement universel"
+#~ msgstr "Der Universal-Subscription-Button"
+#~ msgid "et le badge"
+#~ msgstr "und des Ranking-Badges"
+#~ msgid "Quel est votre Wikio"
+#~ msgstr "Wählen Sie Ihre Wikio-Version aus"
+#~ msgid "Enregistrer les modifications"
+#~ msgstr "Änderungen speichern"
+#~ msgid "Preview"
+#~ msgstr "Vorschau"
+#~ msgid "Affichage sur la home page"
+#~ msgstr "Auf der Homepage anzeigen"
+#~ msgid "Non"
+#~ msgstr "Nein"
+#~ msgid "Affichage sur les pages d'article uniquement"
+#~ msgstr "Ausschliesslich auf den Artikelseiten anzeigen"
+#~ msgid "Services"
+#~ msgstr "Dienste"
+#~ msgid ""
+#~ "Cochez les cases correspondantes aux services que vous souhaitez ajouter"
+#~ msgstr "Klicken Sie die Felder der Dienste an, die Sie hinzufügen möchten"
+#~ msgid "Insertion automatique"
+#~ msgstr "Automatische Eingabe"
+#~ msgid "recommande"
+#~ msgstr "empfohlen"
+#~ msgid "je copie et colle le script ci dessous dans mon template"
+#~ msgstr "Unten stehendes Script kopieren und im Template einfügen"
+#~ msgid "Script a copier / coller"
+#~ msgstr "Script zum Kopieren und Einfügen"
+#~ msgid ""
+#~ "Si vous le souhaitez, vous pouvez copier et coller ce script directement "
+#~ "dans votre template entre les balises suivantes"
+#~ msgstr ""
+#~ "Wenn Sie möchten, können Sie dieses Script kopieren und direkt in Ihrem "
+#~ "Template zwischen folgende Tags einfügen"
+#~ msgid "Abonnement universel"
+#~ msgstr "Universal Subscription"
+#~ msgid "Creation de widgets"
+#~ msgstr "Widgets erstellen"
+#~ msgid "N'oubliez pas de placer"
+#~ msgstr "Vergessen Sie nicht, "
+#~ msgid ""
+#~ "Si vous le souhaitez, vous pouvez copier et coller ce script directement "
+#~ "dans votre template a l'endroit que vous voulez"
+#~ msgstr ""
+#~ "Wenn Sie möchten, können Sie dieses Script kopieren und direkt in Ihrem "
+#~ "Template einfügen, wo Sie möchten"
+#~ msgid "Alignement des boutons"
+#~ msgstr "Ausrichtung des Buttons"
+#~ msgid "Horizontalement"
+#~ msgstr "Horizontal"
+#~ msgid "Verticalement"
+#~ msgstr "Vertikal"
+#~ msgid "Alignement avec le bouton de partage"
+#~ msgstr "Ausrichtung dem Share-Button anpassen"
+#~ msgid "Badge Top des blogs"
+#~ msgstr "Ranking-Badge"
+#~ msgid "Classement general"
+#~ msgstr "Blog-Ranking"
+#~ msgid "Wikio - Top des blogs"
+#~ msgstr "Wikio-Ranking"
+#~ msgid "Classement dans votre categorie"
+#~ msgstr "Ranking in Ihrer Kategorie"
+#~ msgid ""
+#~ "Si aucun chiffre n'est visible verifiez que votre blog est bien inscrit "
+#~ "dans Wikio ou"
+#~ msgstr ""
+#~ "Wenn keine Zahl angezeigt wird, überprüfen Sie bitte, ob Ihr Blog bei "
+#~ "Wikio registriert ist oder"
+#~ msgid "inscrivez-vous gratuitement."
+#~ msgstr "melden Sie sich kostenlos an."
+#~ msgid "Affichage"
+#~ msgstr "Ansicht"
+#~ msgid "Afficher mon classement dans le top general"
+#~ msgstr "Meine Position im Gesamt-Ranking anzeigen"
+#~ msgid "Afficher mon classement dans ma categorie"
+#~ msgstr "Meine Position im Ranking meiner Kategorie anzeigen"
+#~ msgid "Subscribe"
+#~ msgstr "Subscribe"
+#~ msgid "Toutes les news sur les themes que vous voulez"
+#~ msgstr "Alle Nachrichten zu Themen Ihrer Wahl"
+#~ msgid "Actus"
+#~ msgstr "News"
+#~ msgid "Pas encore d'information..."
+#~ msgstr "Es liegen noch keine Informationen vor..."
+#~ msgid "Suite"
+#~ msgstr "Weiter"
+#~ msgid "Theme (ex:Emploi France)"
+#~ msgstr "Thema (z.B. Fussball)"
+#~ msgid "Nombre de news affichees"
+#~ msgstr "Anzahl der angezeigten Nachrichten"
+#~ msgid "actuellement"
+#~ msgstr "aktuell"
+#~ msgid "Afficher une partie du contenu"
+#~ msgstr "Einen Teil des Inhaltes anzeigen"
+#~ msgid "Pensez a enregistrer vos modifications"
+#~ msgstr "Vergessen Sie nicht, Ihre Änderungen zu speichern "
+#~ msgid "bouton de vote"
+#~ msgstr "Vote-Buttons"
+#~ msgid "partage universel"
+#~ msgstr "Universal-Share-Buttons"
+
