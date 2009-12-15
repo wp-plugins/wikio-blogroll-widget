@@ -3,7 +3,7 @@ Contributors: Wikio
 Donate link: 
 Tags: widget, post, wikio, buddypress, blogroll, links, quotes
 Requires at least: 2.0.2
-Tested up to: 2.8.4
+Tested up to: 2.8.6
 Stable tag: 0.1
 
 The Automatic Blogroll Widget allows you to display an automatically updated blogroll in your sidebar!
