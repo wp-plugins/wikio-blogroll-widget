@@ -261,7 +261,7 @@
 						<select name="wikio_neighbours_dir" id="wikio_neighbours_dir" onchange="please_update(7);">
 							<option value="in" <?php if ($wikio_neighbours_dir == "in"){ echo 'selected="selected"';} ?>><?php _e('In',$wikio_neighbours_domain); ?></option>
 							<option value="out" <?php if ($wikio_neighbours_dir == "out"){ echo 'selected="selected"';} ?>><?php _e('Out',$wikio_neighbours_domain); ?></option>
-							<option value="out" <?php if ($wikio_neighbours_dir == "both"){ echo 'selected="selected"';} ?>><?php _e('Both',$wikio_neighbours_domain); ?></option>
+							<option value="both" <?php if ($wikio_neighbours_dir == "both"){ echo 'selected="selected"';} ?>><?php _e('Both',$wikio_neighbours_domain); ?></option>
 						</select>
 						<input id="post-query-submit-4" class="button-secondary" type="submit" value="<?php _e('Save changes',$wikio_neighbours_domain); ?>" style="display:none;" name="submit" />
 						</td>
